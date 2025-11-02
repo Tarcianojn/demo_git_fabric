@@ -1,0 +1,8 @@
+relationship AutoDetected_ecaa7845-3c13-4a6f-a2d8-441f06d644d6
+	fromColumn: transacoes.Moeda
+	toColumn: moedas.Moeda
+
+relationship AutoDetected_052b344e-d880-4dff-83bc-df75669ed3ac
+	fromColumn: cotacoes.Moeda
+	toColumn: moedas.Moeda
+
